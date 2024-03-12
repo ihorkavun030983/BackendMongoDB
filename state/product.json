@@ -1,0 +1,35 @@
+[
+    {
+        "id": "String",
+        "name": "Дитячі сабо",
+        "gender": "female",
+        "price": "1.28",
+        "sellingPrice": "3",
+        "quantity": "1"
+    },
+    {
+        "id": "String",
+        "name": "Фартух для годування",
+        "gender": "unisex",
+        "price": "0.12",
+        "sellingPrice": "3",
+        "quantity": "3"
+    },
+    {
+        "id": "String",
+        "name": "Носки дитячі",
+        "gender": "unisex",
+        "price": "1",
+        "sellingPrice": "3",
+        "quantity": "2"
+    },
+    {
+        "id": "String",
+        "name": "Захисна плівка на мишку",
+        "gender": "female",
+        "price": "2.08",
+        "sellingPrice": "3",
+        "quantity": "1"
+    }
+
+]
